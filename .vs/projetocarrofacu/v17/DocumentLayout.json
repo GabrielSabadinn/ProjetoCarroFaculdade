@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gbsab\\Music\\SistemaC#\\projetocarrofacu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA382AA-4185-4E21-BC77-42F9E5528454}|projetocarrofacu\\projetocarrofacu.csproj|c:\\users\\gbsab\\music\\sistemac#\\projetocarrofacu\\projetocarrofacu\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFA382AA-4185-4E21-BC77-42F9E5528454}|projetocarrofacu\\projetocarrofacu.csproj|solutionrelative:projetocarrofacu\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gbsab\\Music\\SistemaC#\\projetocarrofacu\\projetocarrofacu\\Migrations\\20240623145416_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projetocarrofacu\\Migrations\\20240623145416_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA382AA-4185-4E21-BC77-42F9E5528454}|projetocarrofacu\\projetocarrofacu.csproj|c:\\users\\gbsab\\music\\sistemac#\\projetocarrofacu\\projetocarrofacu\\controllers\\vendedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA382AA-4185-4E21-BC77-42F9E5528454}|projetocarrofacu\\projetocarrofacu.csproj|solutionrelative:projetocarrofacu\\controllers\\vendedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA382AA-4185-4E21-BC77-42F9E5528454}|projetocarrofacu\\projetocarrofacu.csproj|c:\\users\\gbsab\\music\\sistemac#\\projetocarrofacu\\projetocarrofacu\\controllers\\notascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA382AA-4185-4E21-BC77-42F9E5528454}|projetocarrofacu\\projetocarrofacu.csproj|solutionrelative:projetocarrofacu\\controllers\\notascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA382AA-4185-4E21-BC77-42F9E5528454}|projetocarrofacu\\projetocarrofacu.csproj|c:\\users\\gbsab\\music\\sistemac#\\projetocarrofacu\\projetocarrofacu\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA382AA-4185-4E21-BC77-42F9E5528454}|projetocarrofacu\\projetocarrofacu.csproj|solutionrelative:projetocarrofacu\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA382AA-4185-4E21-BC77-42F9E5528454}|projetocarrofacu\\projetocarrofacu.csproj|c:\\users\\gbsab\\music\\sistemac#\\projetocarrofacu\\projetocarrofacu\\controllers\\carroescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA382AA-4185-4E21-BC77-42F9E5528454}|projetocarrofacu\\projetocarrofacu.csproj|solutionrelative:projetocarrofacu\\controllers\\carroescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA382AA-4185-4E21-BC77-42F9E5528454}|projetocarrofacu\\projetocarrofacu.csproj|c:\\users\\gbsab\\music\\sistemac#\\projetocarrofacu\\projetocarrofacu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BFA382AA-4185-4E21-BC77-42F9E5528454}|projetocarrofacu\\projetocarrofacu.csproj|solutionrelative:projetocarrofacu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA382AA-4185-4E21-BC77-42F9E5528454}|projetocarrofacu\\projetocarrofacu.csproj|c:\\users\\gbsab\\music\\sistemac#\\projetocarrofacu\\projetocarrofacu\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA382AA-4185-4E21-BC77-42F9E5528454}|projetocarrofacu\\projetocarrofacu.csproj|solutionrelative:projetocarrofacu\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA382AA-4185-4E21-BC77-42F9E5528454}|projetocarrofacu\\projetocarrofacu.csproj|c:\\users\\gbsab\\music\\sistemac#\\projetocarrofacu\\projetocarrofacu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA382AA-4185-4E21-BC77-42F9E5528454}|projetocarrofacu\\projetocarrofacu.csproj|solutionrelative:projetocarrofacu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA382AA-4185-4E21-BC77-42F9E5528454}|projetocarrofacu\\projetocarrofacu.csproj|c:\\users\\gbsab\\music\\sistemac#\\projetocarrofacu\\projetocarrofacu\\models\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA382AA-4185-4E21-BC77-42F9E5528454}|projetocarrofacu\\projetocarrofacu.csproj|solutionrelative:projetocarrofacu\\models\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA382AA-4185-4E21-BC77-42F9E5528454}|projetocarrofacu\\projetocarrofacu.csproj|c:\\users\\gbsab\\music\\sistemac#\\projetocarrofacu\\projetocarrofacu\\models\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA382AA-4185-4E21-BC77-42F9E5528454}|projetocarrofacu\\projetocarrofacu.csproj|solutionrelative:projetocarrofacu\\models\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA382AA-4185-4E21-BC77-42F9E5528454}|projetocarrofacu\\projetocarrofacu.csproj|c:\\users\\gbsab\\music\\sistemac#\\projetocarrofacu\\projetocarrofacu\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA382AA-4185-4E21-BC77-42F9E5528454}|projetocarrofacu\\projetocarrofacu.csproj|solutionrelative:projetocarrofacu\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA382AA-4185-4E21-BC77-42F9E5528454}|projetocarrofacu\\projetocarrofacu.csproj|c:\\users\\gbsab\\music\\sistemac#\\projetocarrofacu\\projetocarrofacu\\models\\nota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFA382AA-4185-4E21-BC77-42F9E5528454}|projetocarrofacu\\projetocarrofacu.csproj|solutionrelative:projetocarrofacu\\models\\nota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\gbsab\\Music\\SistemaC#\\projetocarrofacu\\projetocarrofacu\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "projetocarrofacu\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\gbsab\\Music\\SistemaC#\\projetocarrofacu\\projetocarrofacu\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "projetocarrofacu\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T14:58:35.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240623145416_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\gbsab\\Music\\SistemaC#\\projetocarrofacu\\projetocarrofacu\\Migrations\\20240623145416_InitialCreate.cs",
+              "RelativeDocumentMoniker": "projetocarrofacu\\Migrations\\20240623145416_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\gbsab\\Music\\SistemaC#\\projetocarrofacu\\projetocarrofacu\\Migrations\\20240623145416_InitialCreate.cs",
+              "RelativeToolTip": "projetocarrofacu\\Migrations\\20240623145416_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:54:16.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VendedorController.cs",
+              "DocumentMoniker": "C:\\Users\\gbsab\\Music\\SistemaC#\\projetocarrofacu\\projetocarrofacu\\Controllers\\VendedorController.cs",
+              "RelativeDocumentMoniker": "projetocarrofacu\\Controllers\\VendedorController.cs",
+              "ToolTip": "C:\\Users\\gbsab\\Music\\SistemaC#\\projetocarrofacu\\projetocarrofacu\\Controllers\\VendedorController.cs",
+              "RelativeToolTip": "projetocarrofacu\\Controllers\\VendedorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:53:42.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotasController.cs",
+              "DocumentMoniker": "C:\\Users\\gbsab\\Music\\SistemaC#\\projetocarrofacu\\projetocarrofacu\\Controllers\\NotasController.cs",
+              "RelativeDocumentMoniker": "projetocarrofacu\\Controllers\\NotasController.cs",
+              "ToolTip": "C:\\Users\\gbsab\\Music\\SistemaC#\\projetocarrofacu\\projetocarrofacu\\Controllers\\NotasController.cs",
+              "RelativeToolTip": "projetocarrofacu\\Controllers\\NotasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:52:37.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\gbsab\\Music\\SistemaC#\\projetocarrofacu\\projetocarrofacu\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "projetocarrofacu\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\gbsab\\Music\\SistemaC#\\projetocarrofacu\\projetocarrofacu\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "projetocarrofacu\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:51:51.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarroesController.cs",
+              "DocumentMoniker": "C:\\Users\\gbsab\\Music\\SistemaC#\\projetocarrofacu\\projetocarrofacu\\Controllers\\CarroesController.cs",
+              "RelativeDocumentMoniker": "projetocarrofacu\\Controllers\\CarroesController.cs",
+              "ToolTip": "C:\\Users\\gbsab\\Music\\SistemaC#\\projetocarrofacu\\projetocarrofacu\\Controllers\\CarroesController.cs",
+              "RelativeToolTip": "projetocarrofacu\\Controllers\\CarroesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:51:02.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gbsab\\Music\\SistemaC#\\projetocarrofacu\\projetocarrofacu\\Program.cs",
+              "RelativeDocumentMoniker": "projetocarrofacu\\Program.cs",
+              "ToolTip": "C:\\Users\\gbsab\\Music\\SistemaC#\\projetocarrofacu\\projetocarrofacu\\Program.cs",
+              "RelativeToolTip": "projetocarrofacu\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:45:38.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gbsab\\Music\\SistemaC#\\projetocarrofacu\\projetocarrofacu\\appsettings.json",
+              "RelativeDocumentMoniker": "projetocarrofacu\\appsettings.json",
+              "ToolTip": "C:\\Users\\gbsab\\Music\\SistemaC#\\projetocarrofacu\\projetocarrofacu\\appsettings.json",
+              "RelativeToolTip": "projetocarrofacu\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-23T14:44:44.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gbsab\\Music\\SistemaC#\\projetocarrofacu\\projetocarrofacu\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "projetocarrofacu\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\gbsab\\Music\\SistemaC#\\projetocarrofacu\\projetocarrofacu\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "projetocarrofacu\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:43:35.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\gbsab\\Music\\SistemaC#\\projetocarrofacu\\projetocarrofacu\\Models\\Carro.cs",
+              "RelativeDocumentMoniker": "projetocarrofacu\\Models\\Carro.cs",
+              "ToolTip": "C:\\Users\\gbsab\\Music\\SistemaC#\\projetocarrofacu\\projetocarrofacu\\Models\\Carro.cs",
+              "RelativeToolTip": "projetocarrofacu\\Models\\Carro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:42:46.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Vendedor.cs",
+              "DocumentMoniker": "C:\\Users\\gbsab\\Music\\SistemaC#\\projetocarrofacu\\projetocarrofacu\\Models\\Vendedor.cs",
+              "RelativeDocumentMoniker": "projetocarrofacu\\Models\\Vendedor.cs",
+              "ToolTip": "C:\\Users\\gbsab\\Music\\SistemaC#\\projetocarrofacu\\projetocarrofacu\\Models\\Vendedor.cs",
+              "RelativeToolTip": "projetocarrofacu\\Models\\Vendedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:42:32.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\gbsab\\Music\\SistemaC#\\projetocarrofacu\\projetocarrofacu\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "projetocarrofacu\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\gbsab\\Music\\SistemaC#\\projetocarrofacu\\projetocarrofacu\\Models\\Cliente.cs",
+              "RelativeToolTip": "projetocarrofacu\\Models\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:42:10.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Nota.cs",
+              "DocumentMoniker": "C:\\Users\\gbsab\\Music\\SistemaC#\\projetocarrofacu\\projetocarrofacu\\Models\\Nota.cs",
+              "RelativeDocumentMoniker": "projetocarrofacu\\Models\\Nota.cs",
+              "ToolTip": "C:\\Users\\gbsab\\Music\\SistemaC#\\projetocarrofacu\\projetocarrofacu\\Models\\Nota.cs",
+              "RelativeToolTip": "projetocarrofacu\\Models\\Nota.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:41:22.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
